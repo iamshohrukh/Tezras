@@ -1,10 +1,10 @@
-import Hero from "./Components/Hero";
-import Slider from "./Components/Slider";
-import Carousel from "./Components/Carousel";
-import Properties from "./Components/Properties";
-import SliderS from "./Components/SliderS";
+import Hero from "./components/Hero";
+import Slider from "./components/Slider";
+import Carousel from "./components/Carousel";
+import Properties from "./components/Properties";
+import SliderS from "./components/SliderS";
 // import Map from "./Components/Map"
-import Footer from "./Components/Footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,5 +21,3 @@ function App() {
 }
 
 export default App;
-clear
-c
